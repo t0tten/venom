@@ -5,8 +5,17 @@
 # Network
 # Entities
 
+
+from Board import *
+
 def main():
-    print("Hello World!")
+    print("Venom!")
+    board = Board()
+
+
+
+
+
 
 if __name__ == "__main__":
     main()
